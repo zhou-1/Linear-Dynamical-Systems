@@ -18,4 +18,7 @@ discrete-time linear dynamical system
 
 why study this? applications arise in many areas, automatic control systems, signal processing, communications, economics, finanace, circuit analysis, simulation, design, mechanical and civil engineering, aeronautics 航空学, navigation, guidance.    
 
+usefulness of Linear Dynamical Systems (LDS)     
+depends on availability of computing power, which is large and increasing exponentially.    
+
 
