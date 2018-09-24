@@ -24,4 +24,14 @@ depends on availability of computing power, which is large and increasing expone
 Nonlinear dynamical systems   
 most based on linear methods; methods for linear systems oftern work well, in practice, for nonlinear systems.   
 
+Examples   
+consider a specific system, x(up dot)=dx/dt=Ax, y=Cx.    
+output waveform is very complicated; looks almost random and unpredictable.    
+Input design. add two inputs, two outputs to system, x(up dot)=Ax+Bu, y=Cx, x(0)=0     
+Use clever input waveforms, can do much better.   
+
+Estimation/filtering   
+signal u (piecewise constant, period 1s) - filtered by 2nd-order system H(s), step response s(t) - w - A/D runs at 10Hz, with 3-bit quantizer - y      
+
+Use Matlab.  
 
