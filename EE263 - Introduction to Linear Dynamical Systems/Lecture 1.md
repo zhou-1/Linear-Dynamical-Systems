@@ -21,4 +21,7 @@ why study this? applications arise in many areas, automatic control systems, sig
 usefulness of Linear Dynamical Systems (LDS)     
 depends on availability of computing power, which is large and increasing exponentially.    
 
+Nonlinear dynamical systems   
+most based on linear methods; methods for linear systems oftern work well, in practice, for nonlinear systems.   
+
 
